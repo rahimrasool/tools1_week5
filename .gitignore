@@ -1,2 +1,8 @@
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# config file
+config.ini
+
+__pycache__/
+.DS_Store
